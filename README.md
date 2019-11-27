@@ -1,4 +1,4 @@
-# deep learning For beginners
+# Deep Learning For Beginners
 This is a repository of notes and concepts from the Udacity Bertelsmann 2019 AI challenge course. This repository extracts the most basic concepts related to deep learning.
 
 
