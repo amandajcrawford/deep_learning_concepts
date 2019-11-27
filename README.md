@@ -3,7 +3,7 @@ This is a repository of notes and concepts from the Udacity Bertelsmann 2019 AI 
 
 
 
-## Introduction To Nueral Networks
+## Introduction To NeUral Networks
 
 - Perceptrons
 - Logic Gates
