@@ -24,7 +24,7 @@ This is a repository of notes and concepts from the Udacity Bertelsmann 2019 AI 
 
 - NAND Gate
 
-  - [Neural Representation of AND, OR, NOT, XOR and XNOR Logic Gates (Perceptron Algorithm)]: https://medium.com/@stanleydukor/neural-representation-of-and-or-not-xor-and-xnor-logic-gates-perceptron-algorithm-b0275375fea1
+  - (Neural Representation of AND, OR, NOT, XOR and XNOR Logic Gates Perceptron Algorithm) [https://medium.com/@stanleydukor/neural-representation-of-and-or-not-xor-and-xnor-logic-gates-perceptron-algorithm-b0275375fea1]
 
     
 
@@ -60,7 +60,7 @@ This is a repository of notes and concepts from the Udacity Bertelsmann 2019 AI 
 
 - Exponential function
 
-  - [What is e?][https://www.nde-ed.org/EducationResources/Math/Math-e.php] 
+  - (What is e?)[https://www.nde-ed.org/EducationResources/Math/Math-e.php] 
 
 - Softmax Function
 
