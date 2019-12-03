@@ -5,7 +5,6 @@ This is a repository of listicle style study notes that takes the most important
 
 
 ## Lesson 3: Introduction To NeUral Networks
-
 - Models
 - Supervised Learning
 - Linear Function
