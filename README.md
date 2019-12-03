@@ -1,8 +1,12 @@
 # Introduction to Deep Learning with PyTorch Study Notes
 
-This is a repository of listicle style study notes that takes the most important concepts from the Udacity Bertelsmann 2019 AI challenge course - Introduction to Deep Learning with PyTorch. I've taken the minimalist approach by listing the important concepts and if needed a reference to a good and clear article that explains the concepts. The ultimate purpose of this doc is to break down complex deep learning concepts into simple digestable pieces. 
+This is a repository of my listicle style study notes that takes the most important concepts from the Udacity Bertelsmann 2019 AI challenge course - Introduction to Deep Learning with PyTorch. I've taken the minimalist approach by listing the important concepts and if needed a reference to a good and clear article that explains the concepts. The ultimate purpose of this doc is to break down complex deep learning concepts into simple digestable pieces. 
 
 
+
+
+
+![](https://storage.needpix.com/rsynced_images/artificial-neural-network-3501528_1280.png)
 
 ## Lesson 3: Introduction To NeUral Networks
 - Models
