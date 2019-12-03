@@ -6,7 +6,7 @@ This is a repository of my listicle style study notes that takes the most import
 
 
 
-![](https://storage.needpix.com/rsynced_images/artificial-neural-network-3501528_1280.png)
+![needapix](https://storage.needpix.com/rsynced_images/artificial-neural-network-3501528_1280.png)
 
 ## Lesson 3: Introduction To NeUral Networks
 - Models
